@@ -1,2 +1,3 @@
-# binders
-Central repo for Binders to be used in Carpentries workshops
+# Python-only Binder
+
+Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/python)
