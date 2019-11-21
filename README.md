@@ -28,9 +28,9 @@ MarkDown to Copy-Paste:
 
 GitHub Branch: https://github.com/SmithsonianWorkshops/binders/tree/rstudio
 
-Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/rstudio)
+Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/rstudio?urlpath=rstudio)
 
 MarkDown to Copy-Paste:
 ```
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/rstudio?urlpath=rstudio)
 ```
