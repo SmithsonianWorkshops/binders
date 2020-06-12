@@ -13,6 +13,17 @@ MarkDown to Copy-Paste:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine?urlpath=openrefine)
 ```
 
+## SQLite
+
+GitHub Branch: https://github.com/SmithsonianWorkshops/binders/tree/sqlite
+
+Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/sqlite)
+
+MarkDown to Copy-Paste:
+```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/sqlite)
+```
+
 ## Python Jupyter
 
 GitHub Branch: https://github.com/SmithsonianWorkshops/binders/tree/python
