@@ -23,9 +23,7 @@
             },
             "right": {
                 "collapsed": true,
-                "widgets": [
-                    "jp-property-inspector"
-                ]
+                "widgets": [ ]
             }
         },
         "terminal:1": {
