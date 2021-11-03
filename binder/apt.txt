@@ -1,2 +1,2 @@
-nano
 man
+nano
