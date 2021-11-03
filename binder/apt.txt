@@ -1,4 +1,2 @@
 nano
 man
-man-db
-coreutils
