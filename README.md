@@ -1,4 +1,4 @@
-# OpenRefine 3.5.0 Binder (undergoing testing)
+# OpenRefine 3.5.0 Binder
 
 Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine350)
 
