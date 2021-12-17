@@ -1,5 +1,5 @@
-# OpenRefine Binder (3.4.1 stable)
+# OpenRefine 3.5.0 Binder (undergoing testing)
 
-Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine34)
+Start on Jupyter notebook homepage: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine350)
 
-Start on OpenRefine: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine34?urlpath=openrefine)
+Start on OpenRefine: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine350?urlpath=openrefine)
