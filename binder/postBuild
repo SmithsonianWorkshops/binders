@@ -6,10 +6,12 @@ mkdir -p $HOME/openrefine
 
 mkdir -p $HOME/.jupyter/
 
-wget -q -O openrefine-3.5.1.tar.gz https://github.com/OpenRefine/OpenRefine/releases/download/3.5.0/openrefine-linux-3.5.1.tar.gz
+OR_VERSION=3.5.1
 
-tar xzf openrefine-3.5.1.tar.gz -C $HOME/.openrefine
-rm openrefine-3.5.1.tar.gz
+wget -q -O openrefine-${OR_VERSION}.tar.gz https://github.com/OpenRefine/OpenRefine/releases/download/${OR_VERSION}/openrefine-linux-${OR_VERSION}.tar.gz
+
+tar xzf openrefine-${OR_VERSION}.tar.gz -C $HOME/.openrefine
+rm openrefine-${OR_VERSION}.tar.gz
 
 
 
