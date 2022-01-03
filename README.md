@@ -4,13 +4,13 @@ This is a central repo for Binders to be used in Carpentries workshops.
 
 ## OpenRefine
 
-GitHub Branch: https://github.com/SmithsonianWorkshops/binders/tree/open_refine34
+GitHub Branch: https://github.com/SmithsonianWorkshops/binders/tree/open_refine350
 
-Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine34?urlpath=openrefine)
+Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine350?urlpath=openrefine)
 
 MarkDown to Copy-Paste:
 ```
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine34?urlpath=openrefine)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SmithsonianWorkshops/binders/open_refine350?urlpath=openrefine)
 ```
 
 ## SQLite
