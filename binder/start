@@ -1,5 +1,9 @@
 #!/bin/bash
 
+mkdir -p ~/Desktop/shell-lesson
+wget https://librarycarpentry.org/lc-shell/data/shell-lesson.zip
+unzip shell-lesson.zip -d ~/Desktop/shell-lesson
+
 # A bit of a hack to force the downloaded man pages to source here.
 #
 # These man pages were a bit difficult to come by. The container by default
